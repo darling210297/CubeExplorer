@@ -1,7 +1,7 @@
 #  Cube Explorer – Terreno y movimiento de un cubo en Unity
 
 **Asignatura:** ISWZ3411 – Desarrollo de Videojuegos
-**Autor:** _[Darling Ortiz]_
+**Autor:** Darling Ortiz
 **Versión de Unity:** Unity 6.6 (6000.6.4f1) – Universal Render Pipeline (URP)
 
 ##  Descripción
@@ -12,7 +12,7 @@ El objetivo es recorrer el valle y recolectar los **5 cubos de energía** amaril
 que flotan y giran en distintos puntos del mapa. Al recolectarlos todos aparece un
 mensaje de victoria.
 
-**Video de demostración:** _[(https://youtu.be/UVoXe2PaeQM)]_
+**Video de demostración:** (https://youtu.be/UVoXe2PaeQM)
 
 
 ##  Características
